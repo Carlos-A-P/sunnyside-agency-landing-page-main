@@ -338,7 +338,7 @@ p.title {
 /* end of section-2 */
 
 /* section-3 */
-section.section-3 {
+div.section-3 {
 	height: 400px;
 	display: grid;
 	grid-template-columns: repeat(4, 1fr);
@@ -643,7 +643,7 @@ footer a:hover {
 		height: auto;
 	}
 
-	section.section-3 {
+	div.section-3 {
 		height: 400px;
 		display: grid;
 		grid-template-columns: 1fr 1fr;
