@@ -77,10 +77,12 @@ header {
 
 li#contact:hover {
 	background-color: hsl(199, 96%, 79%);
+	transition: 0.5s;
 }
 
 #contact a:hover {
 	color: white;
+	transition: 0.5s;
 }
 
 li#contact {
@@ -399,6 +401,7 @@ div.footer {
 
 footer a:hover {
 	filter: brightness(1000%);
+	transition: 0.5s;
 }
 
 .contacts {
@@ -408,6 +411,7 @@ footer a:hover {
 
 .contacts > a:hover {
 	color: white;
+	transition: 0.5s;
 }
 
 /* end of footer */
